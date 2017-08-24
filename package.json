@@ -1,12 +1,24 @@
 {
   "name": "wysiwyg-js",
   "version": "0.1.0",
-  "description": "",
+  "keywords": [
+    "wysiwyg",
+    "contenteditable",
+    "editor",
+    "rich editor",
+    "rich text editor",
+    "vanilla javascript",
+    "vanilla js"
+  ],
+  "description": "wysiwyg contenteditable editor (lightweight + cross browser) for NPM",
   "main": "src/js/wysiwyg.js",
   "author": "shelart",
   "license": "Apache 2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/shelart/wysiwyg-js"
+  },
+  "bugs": {
+    "url": "https://github.com/shelart/wysiwyg-js/issues"
   }
 }
