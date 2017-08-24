@@ -1,0 +1,12 @@
+{
+  "name": "wysiwyg-js",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/js/wysiwyg.js",
+  "author": "shelart",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shelart/wysiwyg-js"
+  }
+}
