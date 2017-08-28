@@ -26,7 +26,7 @@ If a &lt;textarea&gt; was used as 'element', the library:
 * falls back to the &lt;textarea&gt; if the browser does not support 'contenteditable'
 * Old iOS and Android 2.3- also degrade to &lt;textarea&gt;
 
-This is the base library for a [jQuery-plugin](https://github.com/shelart/wysiwyg-jquery) which is a featured editor with a toolbar and bundled popups.
+This is the base library for a [jQuery-plugin](https://www.npmjs.com/package/wysiwyg-jquery) which is a featured editor with a toolbar and bundled popups.
 
 The [original library](https://github.com/wysiwygjs/wysiwyg.js) is used on a website with 300M page impressions a month.
 
@@ -92,4 +92,4 @@ wysiwygeditor.insertList( ordered );
 
 Note
 ====
-This is the base library for a [jQuery-plugin](https://github.com/shelart/wysiwyg-jquery) which is a featured editor with a toolbar and bundled popups. That is now under development.
+This is the base library for a [jQuery-plugin](https://www.npmjs.com/package/wysiwyg-jquery) which is a featured editor with a toolbar and bundled popups. That is now under development.
